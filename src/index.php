@@ -13,208 +13,120 @@
   $preparedBy = 'Rheza Maureen Joy Y. Gabinete, MBA, LPT';
   $notedBy = 'Joy U Mercado, Ph. D., LPT';
 
-  $strengthAndWeakness = Array(
-    array(
-        "strength"=>"isaehgoieeeeeeisaehgoieeeeeeisaehgoieeeeeeisaehgoieeeeeeeeeioggggjfgggggggegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdssssssssfggggggggggggggggggsssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioggfgggggggggggggggeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssgfgggggggggggssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeiggfggggggggggoegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeegjfgggggggeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-    array(
-        "strength"=>"isaehgoieeeeeeeeeioegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
-        "weakness"=>"kjdsssssssssssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
-    ),
-);
+  $strengthAndWeakness = [
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+    [
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    ],
+  ];
 
   $position = "Full-Time Faculty";
   $comments = "Ok namn siya magturo, magaling magturo c maam";

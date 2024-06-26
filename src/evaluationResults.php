@@ -184,13 +184,11 @@
     $pdf->SetLineHeight(5);
 
     $pdf->setFont('Arial', 'B', $medium);
-    $pdf->Row(Array('Strength', 'Weakness'));
+    $pdf->Row(['Strength', 'Weakness']);
     $pdf->setFont('Arial', '', $medium);
-    foreach($strengthsAndWeaknesses as $item){
-      $pdf->Row(Array(
-        $item['strength'],
-        $item['weakness']
-      ));
+    
+    foreach ($strengthsAndWeaknesses as $strengthAndWeakness) {
+      $pdf->Row($strengthAndWeakness);
     }
 
     $outputPath = '../evaluationResults/';
