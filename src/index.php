@@ -15,7 +15,7 @@
 
   $strengthAndWeakness = Array(
     array(
-        "strength"=>"isaehgoieeeeeeeeeioggggjfgggggggegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
+        "strength"=>"isaehgoieeeeeeisaehgoieeeeeeisaehgoieeeeeeisaehgoieeeeeeeeeioggggjfgggggggegioeiigoeddddddddddddddfhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhd",
         "weakness"=>"kjdssssssssfggggggggggggggggggsssssssssssssssssssssssssssssssssssssssssssssfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhsb"
     ),
     array(

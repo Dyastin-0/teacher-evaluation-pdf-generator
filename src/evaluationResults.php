@@ -193,6 +193,9 @@
       ));
     }
 
+    $outputPath = '../evaluationResults/';
+    if (!file_exists($outputPath)) mkdir($outputPath, 0777, true);
+
     $pdf->Output('F', '../evaluationResults/' . $name . ' - Overall Evaluation Result.pdf');
   }
 ?>
