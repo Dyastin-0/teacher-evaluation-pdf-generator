@@ -97,7 +97,7 @@
     $pdf->Cell(15, 6, "Legend: ", 0, 0, '');
     $pdf->SetFont('Arial', '', '11');
 
-    for ($x=0; $x < sizeof($legends); $x++) {
+    for ($x = 0; $x < sizeof($legends); $x++) {
       if ($x == 0) {
         $pdf->Cell(1);
       } else {
@@ -169,7 +169,7 @@
     $pdf->Cell(15, 6, "Legend: ", 0, 0, '');
     $pdf->SetFont('Arial', '', $medium);
 
-    for ($x=0; $x < sizeof($legends); $x++) {
+    for ($x = 0; $x < sizeof($legends); $x++) {
       if ($x == 0) {
         $pdf->Cell(1);
       } else {
@@ -194,6 +194,6 @@
     $outputPath = '../evaluationResults/';
     if (!file_exists($outputPath)) mkdir($outputPath, 0777, true);
 
-    $pdf->Output('F', '../evaluationResults/' . $name . ' - Overall Evaluation Result.pdf');
+    $pdf->Output('F', $outputPath . $name . ' - Overall Evaluation Result.pdf');
   }
 ?>
