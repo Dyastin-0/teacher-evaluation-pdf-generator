@@ -9,7 +9,7 @@ class PDF extends FPDF {
       $this->setFont('Arial', '', 8);
       $this->SetMargins(15, 15);
 
-      $this->Image('assets/images/montalban-logo.png', 10, 10, -400);
+      $this->Image('../assets/images/montalban-logo.png', 10, 10, -400);
 
       $this->Cell(0, 5, 'Republic of the Philippines', 0, 1, 'C');
       $this->Cell(0, 5, 'Province of Rizal', 0, 1, 'C');
@@ -20,7 +20,7 @@ class PDF extends FPDF {
 
       $this->setFont('Arial', '', 10);
       $this->Cell(0, 5, 'Kasiglahan Village, San Jose Rodriguez, Rizal', 0, 1, 'C');
-      $this->Image('assets/images/cdm-logo.png', 167, 10, -350);
+      $this->Image('../assets/images/cdm-logo.png', 167, 10, -350);
       $this->Cell(0, 10, '____________________________________________________________________________________________', 0, 1, 'C');
       $this->SetFont('Arial', 'B', '14');
       $this->Cell(80);

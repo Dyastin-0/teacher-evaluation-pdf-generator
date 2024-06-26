@@ -19,11 +19,11 @@
   ) {
 
     $legends = Array(
-        "1.00-1.80 - Poor Performance",
-        "1.81-2.61 - Performance Needs Improvement",
-        "2.62-3.42 - Satisfactory Performance",
-        "3.43-4.23 - Very Satisfactory Performance",
-        "4.24-5.00 - Excellent Performance",
+      "1.00-1.80 - Poor Performance",
+      "1.81-2.61 - Performance Needs Improvement",
+      "2.62-3.42 - Satisfactory Performance",
+      "3.43-4.23 - Very Satisfactory Performance",
+      "4.24-5.00 - Excellent Performance",
     );
 
     $medium = 11;
@@ -49,19 +49,23 @@
     $pdf->Cell(20, 5, "KALAKASAN: ", 0, 0, '');
     $pdf->Ln(8);
     $pdf->SetFont('Arial', '', '11');
-    foreach($strengths as $strength){
-        $pdf->Cell(0, 5, $strength, 0, 0, "L");
-        $pdf->Ln(5);
+
+    foreach ($strengths as $strength) {
+      $pdf->Cell(0, 5, $strength, 0, 0, "L");
+      $pdf->Ln(5);
     }
+
     $pdf->Ln(10);
     $pdf->SetFont('Arial', 'BI', '11');
     $pdf->Cell(20, 5, "SAKLAW NA DAPAT BAGUHIN: ", 0, 0, '');
     $pdf->Ln(8);
     $pdf->SetFont('Arial', '', '11');
-    foreach($toImproves as $toImprove){
-        $pdf->Cell(0, 5, $toImprove, 0, 0, "L");
-        $pdf->Ln(5);
+
+    foreach ($toImproves as $toImprove) {
+      $pdf->Cell(0, 5, $toImprove, 0, 0, "L");
+      $pdf->Ln(5);
     }
+
     $pdf->Ln(10);
     $pdf->Cell(10);
     $pdf->Cell(20, 5, "Prepared By: ", 0, 0, '');
@@ -176,21 +180,19 @@
   
     #third page
     $pdf->AddPage();
-    // $pdf->ln(10);
     $pdf->SetWidths(array(90, 90));
     $pdf->SetLineHeight(5);
-    
 
     $pdf->setFont('Arial', 'B', $medium);
     $pdf->Row(Array('Strength', 'Weakness'));
     $pdf->setFont('Arial', '', $medium);
     foreach($strengthsAndWeaknesses as $item){
       $pdf->Row(Array(
-          $item['strength'],
-          $item['weakness']
+        $item['strength'],
+        $item['weakness']
       ));
-  }
+    }
 
-    $pdf->Output('F', 'evaluationResults/' . $name . ' - Overall Evaluation Result.pdf');
+    $pdf->Output('F', '../evaluationResults/' . $name . ' - Overall Evaluation Result.pdf');
   }
 ?>
