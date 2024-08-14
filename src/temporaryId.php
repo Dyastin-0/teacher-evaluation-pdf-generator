@@ -19,8 +19,8 @@ function generateTemporaryId($name, $idNumber, $image, $course, $instructions, $
     $id->MultiCell($pageWidth, 10, 'Instructions', 0, 'L');
 
     $id->SetFont('Arial', '', 13);
-    foreach ($instructions as $instruction) {
-        $id->MultiCell($pageWidth - 30, 10, $instruction, 0, 'L');
+    foreach ($instructions as $key=>$instruction) {
+        $id->MultiCell($pageWidth - 30, 10, $key + 1 . '. ' . $instruction, 0, 'L');
     }
 
     $textStart = $centerY + 22;
